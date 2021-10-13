@@ -1,0 +1,9 @@
+Toyota Innova Crysta
+8
+16.27
+Hyundai Creta
+5
+10
+Kia Seltos
+5
+9.9

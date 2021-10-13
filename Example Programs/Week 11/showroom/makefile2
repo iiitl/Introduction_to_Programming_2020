@@ -1,0 +1,2 @@
+showroom2: CarsOperations.c ShowroomOperations.c Showroom2.c
+	gcc -o showroom2 CarsOperations.c ShowroomOperations.c Showroom2.c
